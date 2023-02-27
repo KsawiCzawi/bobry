@@ -1,0 +1,41 @@
+body {
+background-color: rgb(110, 110, 110);
+font-family: 'Droid Sans', arial, serif
+}
+a{
+
+  text-decoration:none;
+  color: inherit;
+  }
+
+#menu {
+    color:rgb(255, 255, 255);
+    background-color: rgb(33, 32, 39);
+    height: 50px;
+    text-align: center;
+    padding-top: 13px;
+}
+#pasek {
+
+  border: rgb(17, 19, 32) 3px solid;
+  
+}
+#menu:hover {
+  background-color: rgb(27, 26, 32);
+  cursor: pointer;
+}
+#napisy {
+  color:rgb(255, 255, 255);
+  background-color: rgb(33, 32, 39);
+  height: 100px;
+  text-align: center;
+  padding-top: 10px;
+  font-size: 50px;
+}
+img {
+  margin-top: 50px;
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border: rgb(17, 19, 32) 3px solid;
+}
